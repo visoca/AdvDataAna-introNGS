@@ -46,3 +46,12 @@ echo "Text body" | mail -s "Subject: gemma - hyperparameter plot" -a /data/myuse
 Graphical alternatives are [WinSCP](http://dsavas.staff.shef.ac.uk/software/xconnect/winscp.html) or [Cyberduck](http://www.macupdate.com/app/mac/8392/cyberduck). You can find more detailed information [here](https://www.sheffield.ac.uk/wrgrid/using/access).
 
 ***
+
+## 2. Fastq format
+Visualising fastq files with “less” (zless), counting lines with “wc -l”, (searching with grep and awk?), piping
+
+## 3. Assessing quality of fastq files [Fastqc]
+
+## 4. Quality trimming fastq files [Trimmomatic]
+
+## 5. Demultiplexing Illumina data
