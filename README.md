@@ -1,6 +1,6 @@
 *APS Advanced Stats Delivery*
 # Introduction to NGS data
-#### who, who, who
+#### Nicola Nadeau, Alison Wright, Victor Soria-Carrasco
 
 [day 1](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md)
 
