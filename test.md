@@ -29,7 +29,7 @@ First lets get used to finding your way around. So where are you now in the file
 ```bash
 pwd
 ```
-Every Unix operating system has a root folder simply called /. Let’s see what’s in it using the command to list information about files.
+Every Unix operating system has a root folder simply called ```/```. Let’s see what’s in it using the command to list information about files.
 ```bash
 ls /
 ```
