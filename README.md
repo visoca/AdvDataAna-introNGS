@@ -2,7 +2,7 @@
 # Introduction to NGS data
 #### Nicola Nadeau, Alison Wright, Victor Soria-Carrasco
 
-[day 1](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md)
+##[day 1 morning](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md)
 
 The aim of this course is to give an introduction to handelling NGS sequence data on the HPC (sharc) and to some of the analyses you might want to do including investigating gene expression and nucleotide variation (SNPs).
 
@@ -16,8 +16,6 @@ CiCS page on using the ShARC cluster: https://www.sheffield.ac.uk/cics/research/
 CiCS page on interactive useage of the cluster: https://www.sheffield.ac.uk/cics/research/hpc/using/interactive
 
 CiCS page on submitting jobs to the cluster (more on his later): https://www.sheffield.ac.uk/cics/research/hpc/sharc/batch
-
-
 
 
 #### Important note
