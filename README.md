@@ -8,6 +8,7 @@ The aim of this practical is to get you started using the HPC and looking at som
 
 #### Before you start
 Here are some websites that it is useful to have on hand (you might want to bookmark these so you can easily go back to them)
+
 Linux and Shell cheatsheet (it's not cheating!): http://rcg.group.shef.ac.uk/courses/linux/shell-cheatsheet.html
 CiCS page on using the ShARC cluster: https://www.sheffield.ac.uk/cics/research/hpc/sharc
 CiCS page on interactive useage of the cluster: https://www.sheffield.ac.uk/cics/research/hpc/using/interactive
