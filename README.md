@@ -2,7 +2,7 @@
 # Introduction to NGS data
 #### Nicola Nadeau, Alison Wright, Victor Soria-Carrasco
 
-##[day 1 morning](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md)
+## [day 1 morning](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md)
 
 The aim of this course is to give an introduction to handelling NGS sequence data on the HPC (sharc) and to some of the analyses you might want to do including investigating gene expression and nucleotide variation (SNPs).
 
