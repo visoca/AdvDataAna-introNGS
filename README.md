@@ -6,15 +6,22 @@
 
 The aim of this practical is to get you started using the HPC and looking at some NGS data
 
-#### Before you start
+### Before you start
 Here are some websites that it is useful to have on hand (you might want to bookmark these so you can easily go back to them)
 
 Linux and Shell cheatsheet (it's not cheating!): http://rcg.group.shef.ac.uk/courses/linux/shell-cheatsheet.html
+
 CiCS page on using the ShARC cluster: https://www.sheffield.ac.uk/cics/research/hpc/sharc
+
 CiCS page on interactive useage of the cluster: https://www.sheffield.ac.uk/cics/research/hpc/using/interactive
+
 CiCS page on submitting jobs to the cluster (more on his later): https://www.sheffield.ac.uk/cics/research/hpc/sharc/batch
 
-We will be working on windows machines, which means that you need to use a program (ssh client) to access the cluster. We will be using MobXterm.
+We will be working on windows machines, which means that you need to use a program (ssh client) to access the cluster. We will be using MobXterm. Start by opening the program, if you have used it before to connect to sharc you may find "sharc.sheff.ac.uk" under "User sessions", in which case you can just double click on this to launch an ssh session on sharc. If not, click on "Session">"SSH" and enter
+```bash
+sharc.sheffield.ac.uk
+```
+in the "Remote host" box and specify your username (port should always be 22).
 
 ## 1. Initial set up
 We are going to create a working directory in a dedicated space in the HPC cluster (/data/$USER) and copy the necessary scripts and data files to run this practical.
