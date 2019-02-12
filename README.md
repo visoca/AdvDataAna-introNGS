@@ -15,6 +15,8 @@ CiCS page on interactive useage of the cluster: https://www.sheffield.ac.uk/cics
 
 CiCS page on submitting jobs to the cluster (more on his later): https://www.sheffield.ac.uk/cics/research/hpc/sharc/batch
 
+The genomics software repository: http://soria-carrasco.staff.shef.ac.uk/softrepo/
+
 ## [day 1 morning](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md)
 
 #### Important note
