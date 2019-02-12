@@ -42,9 +42,6 @@ We are going to create a working directory in a dedicated space in the HPC clust
 
 
 
-Connect to Iceberg HPC cluster (change *myuser* by your username):
-```bash
-ssh myuser@iceberg.sheffield.ac.uk
 
 
 #### Important note
