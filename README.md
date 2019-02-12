@@ -17,23 +17,32 @@ CiCS page on interactive useage of the cluster: https://www.sheffield.ac.uk/cics
 
 CiCS page on submitting jobs to the cluster (more on his later): https://www.sheffield.ac.uk/cics/research/hpc/sharc/batch
 
+## 1. Logging in and getting started
 We will be working on windows machines, which means that you need to use a program (ssh client) to access the cluster. We will be using MobXterm. Start by opening the program, if you have used it before to connect to sharc you may find "sharc.sheff.ac.uk" under "User sessions", in which case you can just double click on this to launch an ssh session on sharc. If not, click on "Session">"SSH" and enter
 ```bash
 sharc.sheffield.ac.uk
 ```
 in the "Remote host" box and specify your username (port should always be 22).
 
-## 1. Initial set up
+Request an interactive session:
+```bash
+qrsh
+```
+You should always start by doing this. No work should ever be done on the head node! If you are on a head node you will see someting like this in your cammand line prompt:
+```bash
+[bo1nn@sharc-login1 ~]$
+```
+This node is just a gateway to the worker nodes. If you are on a worker noe you will see the name of the node, eg.
+```bash
+[bo1nn@sharc-node004 ~]$
+```
+
 We are going to create a working directory in a dedicated space in the HPC cluster (/data/$USER) and copy the necessary scripts and data files to run this practical.
 
 Connect to Iceberg HPC cluster (change *myuser* by your username):
 ```bash
 ssh myuser@iceberg.sheffield.ac.uk
-```
-Request an interactive session:
-```bash
-qrsh
-```
+
 
 #### Important note
 ***
