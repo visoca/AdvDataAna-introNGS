@@ -4,7 +4,7 @@
 
 [day 1](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md)
 
-The aim of this practical is to get you started using the HPC and looking at some NGS data
+The aim of this course is to give an introduction to handelling NGS sequence data on the HPC (sharc) and to some of the analyses you might want to do including investigating gene expression and nucleotide variation (SNPs).
 
 ### Before you start
 Here are some websites that it is useful to have on hand (you might want to bookmark these so you can easily go back to them)
@@ -16,34 +16,6 @@ CiCS page on using the ShARC cluster: https://www.sheffield.ac.uk/cics/research/
 CiCS page on interactive useage of the cluster: https://www.sheffield.ac.uk/cics/research/hpc/using/interactive
 
 CiCS page on submitting jobs to the cluster (more on his later): https://www.sheffield.ac.uk/cics/research/hpc/sharc/batch
-
-## 1. Logging in and getting started
-We will be working on windows machines, which means that you need to use a program (ssh client) to access the cluster. We will be using MobXterm. Start by opening the program, if you have used it before to connect to sharc you may find "sharc.sheff.ac.uk" under "User sessions", in which case you can just double click on this to launch an ssh session on sharc. If not, click on "Session">"SSH" and enter
-```bash
-sharc.sheffield.ac.uk
-```
-in the "Remote host" box and specify your username (port should always be 22).
-
-Request an interactive session:
-```bash
-qrsh
-```
-You should always start by doing this. No work should ever be done on the head node! If you are on a head node you will see someting like this in your command line prompt:
-```
-[bo1nn@sharc-login1 ~]$
-```
-This node is just a gateway to the worker nodes. If you are on a worker node you will see the name of the node, eg.
-```
-[bo1nn@sharc-node004 ~]$
-```
-
-## 2. Creating directories and moving around
-First lets get used to finding your way around.
-
-
-
-We are going to create a working directory in a dedicated space in the HPC cluster (/data/$USER) and copy the necessary scripts and data files to run this practical, but 
-
 
 
 
