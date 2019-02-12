@@ -6,7 +6,7 @@ The aim of this practical is to get you started using the HPC and looking at som
 
 ## 1. Logging in and getting started
 We will be working on windows machines, which means that you need to use a program (ssh client) to access the cluster. We will be using MobXterm. Start by opening the program, if you have used it before to connect to sharc you may find "sharc.sheff.ac.uk" under "User sessions", in which case you can just double click on this to launch an ssh session on sharc. If not, click on "Session">"SSH" and enter
-```bash
+```
 sharc.sheffield.ac.uk
 ```
 in the "Remote host" box and specify your username (port should always be 22).
@@ -33,6 +33,14 @@ Every Unix operating system has a root folder simply called ```/```. Let’s see
 ```bash
 ls /
 ```
-
+List the files in the current directory, i. e. your home directory: 
+```bash
+ls
+```
+Your home directory might look empty, but is it? 
+```bash
+ls -a
+```
+The ```-a``` switch makes ```ls``` show hidden files, which start with a dot in their file name.
 
 We are going to create a working directory in a dedicated space in the HPC cluster (/data/$USER) and copy the necessary scripts and data files to run this practical.
