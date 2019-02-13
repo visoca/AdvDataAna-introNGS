@@ -11,9 +11,9 @@ The aim of this course is to give an introduction to handling NGS sequence data 
 | ------- | ---- | ------- | ----- | ---- |
 | [Introduction to the HPC and NGS data](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md) | Wed 20/02/2019 | Morning (9-12) | ADB - A04 (Perak) | Nicola Nadeau |
 | [Sequence data formats and assessing sequence quality](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md) | Wed 20/02/2019 | Afternoon (2-5pm) | ADB - A04 (Perak) | Nicola Nadeau |
-| QC/Alignment/Visualisation/Diff Expression | Tu 21/02/2019  | Morning (9-12) | ADB - A04 (Perak) | Alison Wright |
-| QC/Alignment/Visualisation/Diff Expression | Tu 21/02/2019  | Afternoon (2-5pm) | Diamond 2 | Alison Wright |
-| [SNP and genotype calling](https://github.com/visoca/variant_calling) | Wed 20/02/2019 9-12 | ADB - A04 (Perak) | Victor Soria-Carrasco |
+| QC/Alignment/Visualisation/Diff Expression | Tue 21/02/2019  | Morning (9-12) | ADB - A04 (Perak) | Alison Wright |
+| QC/Alignment/Visualisation/Diff Expression | Tue 21/02/2019  | Afternoon (2-5pm) | Diamond 2 | Alison Wright |
+| [SNP and genotype calling](https://github.com/visoca/variant_calling) | Fri 22/02/2019 | Morning (9-12) | ADB - A04 (Perak) | Victor Soria-Carrasco |
 
 
 ### Before you start
