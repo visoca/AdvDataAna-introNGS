@@ -1,9 +1,1 @@
 theme: jekyll-theme-hacker
-
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-
-.page {
-  width: calc(100% - #{$right-sidebar-width-narrow});
-}
