@@ -1,8 +1,19 @@
-*APS Advanced Data Analysis*
-# Introduction to Next Generation Sequencing Data
+# Advanced Data Analysis - Introduction to NGS data analysis
+## Department of Animal and Plant Sciences, University of Sheffield
 #### Nicola Nadeau, Alison Wright, Victor Soria-Carrasco
 
-The aim of this course is to give an introduction to handelling NGS sequence data on the HPC (sharc) and to some of the analyses you might want to do including investigating gene expression and nucleotide variation (SNPs).
+The aim of this course is to give an introduction to handling NGS sequence data on the UoS HPC cluster (ShARC) and to some of the analyses you might want to do including investigating gene expression and nucleotide variation (SNPs).
+
+
+## Schedule 2018/2019
+Content | Date | Session | Venue | Lead
+------- | ---- | ------- | ----- | -----
+[Introduction to the HPC and NGS data](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md) | Wed 20/02/2019 | Morning (9-12) | ADB - A04 (Perak) | Nicola Nadeau
+[Sequence data formats and assessing sequence quality](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md) | Wed 20/02/2019 | Afternoon (2-5pm) | ADB - A04 (Perak) | Nicola Nadeau
+QC/Alignment/Visualisation/Diff Expression | Thi 21/02/2019  | Morning (9-12) | ADB - A04 (Perak) | Alison Wright
+QC/Alignment/Visualisation/Diff Expression | Thi 21/02/2019  | Afternoon (2-5pm) | Diamond 2 | Alison Wright
+[SNP and genotype calling](https://github.com/visoca/variant_calling) | Wed 20/02/2019 9-12 | ADB - A04 (Perak) | Victor Soria-Carrasco
+
 
 ### Before you start
 Here are some websites that it is useful to have on hand (you might want to bookmark these so you can easily go back to them)
@@ -16,15 +27,6 @@ CiCS page on interactive useage of the cluster: https://www.sheffield.ac.uk/cics
 CiCS page on submitting jobs to the cluster (more on his later): https://www.sheffield.ac.uk/cics/research/hpc/sharc/batch
 
 The genomics software repository: http://soria-carrasco.staff.shef.ac.uk/softrepo/
-
-## Schedule
-Content | Date | Session | Venue | Lead
-------- | ---- | ------- | ----- | -----
-[Introduction to the HPC and NGS data](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md) | Wed 20/02/2019 | Morning (9-12) | ADB - A04 (Perak) | Nicola Nadeau
-[Sequence data formats and assessing sequence quality](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md) | Wed 20/02/2019 | Afternoon (2-5pm) | ADB - A04 (Perak) | Nicola Nadeau
-QC/Alignment/Visualisation/Diff Expression | Thi 21/02/2019  | Morning (9-12) | ADB - A04 (Perak) | Alison Wright
-QC/Alignment/Visualisation/Diff Expression | Thi 21/02/2019  | Afternoon (2-5pm) | Diamond 2 | Alison Wright
-[SNP and genotype calling](https://github.com/visoca/variant_calling) | Wed 20/02/2019 9-12 | ADB - A04 (Perak) | Victor Soria-Carrasco
 
 #### Logging in and getting started
 We will be working on windows machines, which means that you need to use a program (ssh client) to access the cluster. We will be using MobXterm. Start by opening the program, if you have used it before to connect to sharc you may find "sharc.sheff.ac.uk" under "User sessions", in which case you can just double click on this to launch an ssh session on sharc. If not, click on "Session">"SSH" and enter
