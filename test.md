@@ -1,4 +1,4 @@
-*APS Advanced Stats Delivery*
+*APS Advanced Data Analysis*
 # Introduction to the HPC and NGS data - day 1 morning
 #### Nicola Nadeau, Alison Wright, Victor Soria-Carrasco
 
