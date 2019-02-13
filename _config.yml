@@ -5,3 +5,7 @@ theme: jekyll-theme-midnight
         border: 1px solid black;
         }
 </style>
+
+.page {
+  width: calc(100% - #{$right-sidebar-width-narrow});
+}
