@@ -1,5 +1,5 @@
-*APS Advanced Stats Delivery*
-# Introduction to NGS data
+*APS Advanced Data Analysis*
+# Introduction to Next Generation Sequencing Data
 #### Nicola Nadeau, Alison Wright, Victor Soria-Carrasco
 
 The aim of this course is to give an introduction to handelling NGS sequence data on the HPC (sharc) and to some of the analyses you might want to do including investigating gene expression and nucleotide variation (SNPs).
