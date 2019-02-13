@@ -20,12 +20,31 @@ The genomics software repository: http://soria-carrasco.staff.shef.ac.uk/softrep
 ## Schedule
 Content | Date | Session | Venue | Lead
 ------- | ---- | ------- | ----- | -----
-[HPC/bash/NGSdata/awk/QC](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md) | Wed 20/02/2019 | Morning (9-12) | ADB - A04 (Perak) | Nicola Nadeau
-[HPC/bash/NGSdata/awk/QC](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md) | Wed 20/02/2019 | Afternoon (2-5pm) | ADB - A04 (Perak) | Nicola Nadeau
+[Introduction to the HPC and NGS data](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md) | Wed 20/02/2019 | Morning (9-12) | ADB - A04 (Perak) | Nicola Nadeau
+[Sequence data formats and assessing sequence quality](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md) | Wed 20/02/2019 | Afternoon (2-5pm) | ADB - A04 (Perak) | Nicola Nadeau
 QC/Alignment/Visualisation/Diff Expression | Thi 21/02/2019  | Morning (9-12) | ADB - A04 (Perak) | Alison Wright
 QC/Alignment/Visualisation/Diff Expression | Thi 21/02/2019  | Afternoon (2-5pm) | Diamond 2 | Alison Wright
 [SNP and genotype calling](https://github.com/visoca/variant_calling) | Wed 20/02/2019 9-12 | ADB - A04 (Perak) | Victor Soria-Carrasco
 
+#### Logging in and getting started
+We will be working on windows machines, which means that you need to use a program (ssh client) to access the cluster. We will be using MobXterm. Start by opening the program, if you have used it before to connect to sharc you may find "sharc.sheff.ac.uk" under "User sessions", in which case you can just double click on this to launch an ssh session on sharc. If not, click on "Session">"SSH" and enter
+```
+sharc.sheffield.ac.uk
+```
+in the "Remote host" box and specify your username (port should always be 22).
+
+Request an interactive session:
+```bash
+qrsh
+```
+You should always start by doing this. No work should ever be done on the head node! If you are on a head node you will see someting like this in your command line prompt:
+```
+[bo1nn@sharc-login1 ~]$
+```
+This node is just a gateway to the worker nodes. If you are on a worker node you will see the name of the node, eg.
+```
+[bo1nn@sharc-node004 ~]$
+```
 #### Important note
 ***
 This tutorial relies on having access to a number of programs. The easiest way is to have your account configured to use the Genomics Software Repository. If that is the case you should see the following message when you get an interactive session with ```qrsh```:
