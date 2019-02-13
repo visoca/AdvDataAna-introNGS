@@ -17,7 +17,12 @@ CiCS page on submitting jobs to the cluster (more on his later): https://www.she
 
 The genomics software repository: http://soria-carrasco.staff.shef.ac.uk/softrepo/
 
-## [day 1 morning](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md)
+## Schedule
+Content | Session | Venue | Lead
+------- | ------- | ----- | -----
+[HPC/bash/NGSdata/awk/QC](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md) | Wed 20/02/2019 9-12 :: 2-5 | ADB - A04 (Perak) | Nicola Nadeau
+QC/Alignment/Visualisation/Diff Expression | Thi 21/02/2019 9-12 :: 2-5 | ADB - A04 (Perak) :: Diamond 2 | Alison Wright
+[SNP and genotype calling](https://github.com/visoca/variant_calling) | Wed 20/02/2019 9-12 | ADB - A04 (Perak) | Victor Soria-Carrasco
 
 #### Important note
 ***
