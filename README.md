@@ -6,6 +6,7 @@ The aim of this course is to give an introduction to handling NGS sequence data 
 
 
 ## Schedule 2018/2019
+
 | Content | Date | Session | Venue | Lead |
 | ------- | ---- | ------- | ----- | ---- |
 | [Introduction to the HPC and NGS data](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md) | Wed 20/02/2019 | Morning (9-12) | ADB - A04 (Perak) | Nicola Nadeau |
