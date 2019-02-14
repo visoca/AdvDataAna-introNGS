@@ -11,8 +11,8 @@ The aim of this course is to give an introduction to handling NGS sequence data 
 | ------- | ---- | ------- | ----- | ---- |
 | [Introduction to the HPC and NGS data](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md) | Wed 20/02/2019 | Morning (9-12) | ADB - A04 (Perak) | Nicola Nadeau |
 | [Sequence data formats and assessing sequence quality](https://github.com/visoca/MolEcolStats-introNGSdata/blob/master/test.md) | Wed 20/02/2019 | Afternoon (2-5pm) | ADB - A04 (Perak) | Nicola Nadeau |
-| [Aligning Illumina RNA-seq data](https://github.com/alielw/MolEcolStats-introNGSdata/blob/master/day%202%20AM.md) | Tue 21/02/2019  | Morning (9-12) | ADB - A04 (Perak) | Alison Wright |
-| QC/Alignment/Visualisation/Diff Expression | Tue 21/02/2019  | Afternoon (2-5pm) | Diamond 2 | Alison Wright |
+| [Aligning Illumina RNA-seq data](https://github.com/alielw/APS-NGS-day2-AM/blob/master/README.md) | Tue 21/02/2019  | Morning (9-12) | ADB - A04 (Perak) | Alison Wright |
+| [Differential gene expression analyses](https://github.com/alielw/APS-NGS-day2-PM/blob/master/README.md) | Tue 21/02/2019  | Afternoon (2-5pm) | Diamond 2 | Alison Wright |
 | [SNP and genotype calling](https://github.com/visoca/variant_calling) | Fri 22/02/2019 | Morning (9-12) | ADB - A04 (Perak) | Victor Soria-Carrasco |
 
 
@@ -80,11 +80,3 @@ Graphical alternatives are [WinSCP](http://dsavas.staff.shef.ac.uk/software/xcon
 
 ***
 
-## 2. Fastq format
-Visualising fastq files with “less” (zless), counting lines with “wc -l”, (searching with grep and awk?), piping
-
-## 3. Assessing quality of fastq files [Fastqc]
-
-## 4. Quality trimming fastq files [Trimmomatic]
-
-## 5. Demultiplexing Illumina data
