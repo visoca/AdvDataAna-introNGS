@@ -27,6 +27,8 @@ CiCS page on interactive useage of the cluster: https://www.sheffield.ac.uk/cics
 
 CiCS page on submitting jobs to the cluster (more on his later): https://www.sheffield.ac.uk/cics/research/hpc/sharc/batch
 
+Documentation on file storage on ShARC http://docs.iceberg.shef.ac.uk/en/latest/hpc/filestore.html
+
 The genomics software repository: http://soria-carrasco.staff.shef.ac.uk/softrepo/
 
 #### Logging in and getting started
