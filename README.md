@@ -12,7 +12,7 @@ The aim of this course is to give an introduction to handling NGS sequence data 
 | [Introduction to the HPC and NGS data](https://github.com/njnadeau/NGScourse/blob/master/day1am.md) | Wed 20/02/2019 | Morning (9-12) | Hicks G25 | Nicola Nadeau | Clarissa F. de Carvalho, Thea Rogers, Luke Dunning, Juan Enciso |
 | [Sequence data formats and assessing sequence quality](https://github.com/njnadeau/NGScourse/blob/master/day1pm.md) | Wed 20/02/2019 | Afternoon (2-5pm) | Geography B4 | Nicola Nadeau | Clarissa F. de Carvalho, Thea Rogers, Juan Enciso, Emma V Curran |
 | [Aligning Illumina RNA-seq data](https://github.com/alielw/APS-NGS-day2-AM/blob/master/README.md) | Thu 21/02/2019  | Morning (9-12) | ADB - A04 (Perak) | Alison Wright | Clarissa F. de Carvalho, Thea Rogers, Mel Brien, Luke Dunning, Isobel Eyres |
-| [Differential gene expression analyses](https://github.com/alielw/APS-NGS-day2-PM/blob/master/README.md) | Thu 21/02/2019  | Afternoon (2-5pm) | Diamond 2 | Alison Wright | Clarissa F. de Carvalho, Thea Rogers, Mel Brien, Luke Dunning, Isobel Eyres
+| [Differential gene expression analyses](https://github.com/alielw/APS-NGS-day2-PM/blob/master/README.md) | Thu 21/02/2019  | Afternoon (2-5pm) | Diamond 2 Comp | Alison Wright | Clarissa F. de Carvalho, Thea Rogers, Mel Brien, Luke Dunning, Isobel Eyres
 | [SNP and genotype calling](https://visoca.github.io/SNP-and-genotype-calling/) | Fri 22/02/2019 | Morning (9-12) | ADB - A04 (Perak) | Victor Soria-Carrasco | Clarissa F. de Carvalho, Thea Rogers, Juan Enciso, Emma V Curran |
 
 
