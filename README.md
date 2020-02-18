@@ -1,19 +1,19 @@
 # Advanced Data Analysis - Introduction to NGS data analysis
 ## Department of Animal and Plant Sciences, University of Sheffield
-#### Nicola Nadeau, Alison Wright, Victor Soria-Carrasco
+#### Nicola Nadeau, Alison Wright, Helen Hipperson
 
 The aim of this course is to give an introduction to handling NGS sequence data on the UoS HPC cluster (ShARC) and to some of the analyses you might want to do including investigating gene expression and nucleotide variation (SNPs).
 
 
-## Schedule 2018/2019
+## Schedule 2019/2020
 
 | Content | Date | Session | Venue | Lead | TAs |
 | ------- | ---- | ------- | ----- | ---- | --- |
-| [Introduction to the HPC and NGS data](https://github.com/njnadeau/NGScourse/blob/master/day1am.md) | Wed 20/02/2019 | Morning (9-12) | Hicks G25 | Nicola Nadeau | Clarissa F. de Carvalho, Thea Rogers, Luke Dunning, Juan Enciso |
-| [Sequence data formats and assessing sequence quality](https://github.com/njnadeau/NGScourse/blob/master/day1pm.md) | Wed 20/02/2019 | Afternoon (2-5pm) | Geography B4 | Nicola Nadeau | Clarissa F. de Carvalho, Thea Rogers, Juan Enciso, Emma V Curran |
-| [Aligning Illumina RNA-seq data](https://github.com/alielw/APS-NGS-day2-AM/blob/master/README.md) | Thu 21/02/2019  | Morning (9-12) | ADB - A04 (Perak) | Alison Wright | Clarissa F. de Carvalho, Thea Rogers, Mel Brien, Luke Dunning, Isobel Eyres |
-| [Differential gene expression analyses](https://github.com/alielw/APS-NGS-day2-PM/blob/master/README.md) | Thu 21/02/2019  | Afternoon (2-5pm) | Diamond 2 Comp | Alison Wright | Clarissa F. de Carvalho, Thea Rogers, Mel Brien, Luke Dunning, Isobel Eyres
-| [SNP and genotype calling](https://visoca.github.io/SNP-and-genotype-calling/) | Fri 22/02/2019 | Morning (9-12) | ADB - A04 (Perak) | Victor Soria-Carrasco | Clarissa F. de Carvalho, Thea Rogers, Juan Enciso, Emma V Curran |
+| [Introduction to the HPC and NGS data](https://github.com/njnadeau/NGScourse/blob/master/day1am.md) | Mon 02/03/2020 | Morning (9-12) | ADB - A04 (Perak) | Nicola Nadeau | Thea Rogers, Jake Pepper, Naomi Cox |
+| [Sequence data formats and assessing sequence quality](https://github.com/njnadeau/NGScourse/blob/master/day1pm.md) | Mon 02/03/2020 | Morning (9-12) | ADB - A04 (Perak) | Nicola Nadeau | Thea Rogers, Jake Pepper, Naomi Cox |
+| [Aligning Illumina RNA-seq data](https://github.com/alielw/APS-NGS-day2-AM/blob/master/README.md) | Mon 02/03/2020  | Afternoon (2-5) | ADB - A04 (Perak) | Alison Wright | Thea Rogers, Jake Pepper, Naomi Cox |
+| [Differential gene expression analyses](https://github.com/alielw/APS-NGS-day2-PM/blob/master/README.md) | Wed 04/03/2020  | Afternoon (2-5pm) | ADB - A04 (Perak) | Alison Wright | Thea Rogers, Jake Pepper, Naomi Cox |
+| [SNP and genotype calling](https://visoca.github.io/SNP-and-genotype-calling/) | Fri 06/03/2020 | Afternoon (2-5pm) | ADB - A04 (Perak) | Helen Hipperson | Thea Rogers, Jake Pepper, Naomi Cox |
 
 
 ### Before you start
