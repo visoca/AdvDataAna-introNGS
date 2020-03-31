@@ -31,6 +31,11 @@ Documentation on file storage on ShARC http://docs.iceberg.shef.ac.uk/en/latest/
 
 The genomics software repository: http://soria-carrasco.staff.shef.ac.uk/softrepo/
 
+#### Working off-campus
+To access sharc from off-campus you may need to connect to the University's vpn. 
+If you haven't used the vpn before you will first need to get a remote access passord (not the same as your usual account password), which you can do from here: https://www.sheffield.ac.uk/it-services/password/
+You should then follow the instructions to set up the vpn: https://www.sheffield.ac.uk/it-services/vpn
+
 #### Logging in and getting started
 We will be working on windows machines, which means that you need to use a program (ssh client) to access the cluster. We will be using MobXterm. Start by opening the program, if you have used it before to connect to sharc you may find "sharc.shef.ac.uk" under "User sessions", in which case you can just double click on this to launch an ssh session on sharc. If not, click on "Session">"SSH" and enter
 ```
