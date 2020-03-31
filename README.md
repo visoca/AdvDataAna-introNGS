@@ -34,7 +34,7 @@ The genomics software repository: http://soria-carrasco.staff.shef.ac.uk/softrep
 #### Working off-campus
 To access sharc from off-campus you may need to connect to the University's vpn. 
 
-If you haven't used the vpn before you will first need to get a remote access passord (not the same as your usual account password), which you can do from here: https://www.sheffield.ac.uk/it-services/password/
+If you haven't used the vpn before you will first need to get a remote access password (not the same as your usual account password), which you can do from here: https://www.sheffield.ac.uk/it-services/password/
 
 You should then follow the instructions to set up the vpn: https://www.sheffield.ac.uk/it-services/vpn
 
