@@ -16,7 +16,7 @@ The aim of this course is to give an introduction to handling NGS sequence data 
 | [SNP and genotype calling](https://helenhip.github.io/SNP-and-genotype-calling/) | Fri 06/03/2020 | Afternoon (2-5pm) | ADB - A04 (Perak) | Helen Hipperson | Thea Rogers, Jake Pepper, Naomi Cox |
 
 
-### Before you start
+### General notes
 Here are some websites that it is useful to have on hand (you might want to bookmark these so you can easily go back to them)
 
 Linux and Shell cheatsheet (it's not cheating!): http://rcg.group.shef.ac.uk/courses/linux/shell-cheatsheet.html
